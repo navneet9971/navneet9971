@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/navneet-kumar-42b75b204" target="blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 <a href="https://instagram.com/navneet4102" target="blank">
-    <img align="center"  src="https://img.shields.io/badge/instagram-pink alt="navneet4102" height="30" width="40" /></a>
+    <img align="center"  src="https://img.shields.io/badge/logo-instagram-red alt="navneet4102" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/navi highlights" target="blank">
     <img src="https://img.shields.io/badge/You-Tube-red" target="_blank" alt="navi highlights" height="30" width="40" /></a>
 </div>

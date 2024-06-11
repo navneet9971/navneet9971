@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)(https://navneetkumar.io)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)
 <h1 align="center">Hi 👋, I'm Navneet Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align='right' alt="coding" width="400" src="https://i.imgur.com/7A5ZfPJ.gif">

@@ -34,7 +34,7 @@
 <a href="https://instagram.com/navneet4102" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navneet4102" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/navi highlights" target="blank">
-    <img src="https://img.shields.io/badge/logo-youtube-red" target="_blank" alt="navi highlights" height="30" width="40" /></a>
+    <img src="https://img.shields.io/badge/You-Tube-red" target="_blank" alt="navi highlights" height="30" width="40" /></a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

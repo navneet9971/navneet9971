@@ -21,13 +21,19 @@
 
 - ⚡ Fun fact **Thinking.....**
 
+<div align="center">
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/navneet-kumar-42b75b204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-kumar-42b75b204" height="30" width="40" /></a>
-<a href="https://instagram.com/navneet4102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navneet4102" height="30" width="40" /></a>
+
+<a href="mailto:navneetjha2012@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+<a href="https://linkedin.com/in/navneet-kumar-42b75b204" target="blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="https://instagram.com/navneet4102" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navneet4102" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/navi highlights" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="navi highlights" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@navneetjha2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@navneetjha2012" height="30" width="40" /></a>
-</p>
+</div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>

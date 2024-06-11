@@ -12,17 +12,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
-- 🔭 I’m currently working on **VodCast Sass Product**
+🔭 I’m currently working on **VodCast Sass Product**
 
-- 🌱 I’m currently learning **Next.js, TypeScript**
+🌱 I’m currently learning **Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://navi-devfolio.vercel.app/](https://navi-devfolio.vercel.app/)
+👨‍💻 All of my projects are available at [https://navi-devfolio.vercel.app/](https://navi-devfolio.vercel.app/)
 
-- 💬 Ask me about **React.js, Next.js, JSON, APIs**
+💬 Ask me about **React.js, Next.js, JSON, APIs**
 
-- 📫 How to reach me **Navneetjha2012@gmail.com**
+📫 How to reach me **Navneetjha2012@gmail.com**
 
-- ⚡ Fun fact **Thinking.....**
+⚡ Fun fact **Thinking.....**
 </div>
 
 <h3 align="center">Connect with me:</h3>

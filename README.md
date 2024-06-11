@@ -11,7 +11,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<div align="center">
 - 🔭 I’m currently working on **VodCast Sass Product**
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
@@ -23,7 +23,7 @@
 - 📫 How to reach me **Navneetjha2012@gmail.com**
 
 - ⚡ Fun fact **Thinking.....**
-
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <br/>
@@ -35,7 +35,8 @@
 <a href="https://linkedin.com/in/navneet-kumar-42b75b204" target="blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
-
+ <hr/>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">

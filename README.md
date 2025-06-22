@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **Next.js, TypeScript**
 
-👨‍💻 All of my projects are available at [https://navi-devfolio.vercel.app/](https://navi-devfolio.vercel.app/)
+👨‍💻 All of my projects are available at [https://navneet-portfolio-black.vercel.app/](https://navneet-portfolio-black.vercel.app/)
 
 💬 Ask me about **React.js, Next.js, JSON, APIs**
 
